@@ -2,7 +2,7 @@
 
 1. *Using node_modules folder let us to get rid of relative paths*
 
-2. *Every folder name start with the "$" sign to avoid name conflicts with npm modules*
+2. *Every folder name starts with the "$" sign to avoid name conflicts with npm modules*
 
 3. *This project uses [react-scripts-cssmodules](https://www.npmjs.com/package/react-scripts-cssmodules)*
 

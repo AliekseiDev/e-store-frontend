@@ -4,6 +4,8 @@
 
 2. *Every folder name start with the "$" sign to avoid name conflicts with npm modules*
 
+3. *This project uses [react-scripts-cssmodules](https://www.npmjs.com/package/react-scripts-cssmodules)*
+
 # e-store-frontend
 
 This is a Single-Page Application created with React & Redux.
